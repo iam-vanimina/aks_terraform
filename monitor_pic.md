@@ -21,3 +21,11 @@
 
 <img width="959" height="482" alt="az-infra-roboshop-aks-monitor-insights-enablelogs" src="https://github.com/user-attachments/assets/d9024cd9-8d8e-4e9e-9584-647bf7f20d4d" />
 
+<img width="959" height="467" alt="az-infra-roboshop-aks-namespace-roboshop-events" src="https://github.com/user-attachments/assets/e6920227-4ef2-480b-84fa-90f395d78232" />
+
+<img width="953" height="469" alt="az-infra-roboshop-aks-resource" src="https://github.com/user-attachments/assets/0d282a93-4c6c-4fa4-90d2-f1174305ab63" />
+
+<img width="959" height="480" alt="az-infra-roboshop-aks-visual" src="https://github.com/user-attachments/assets/3ae3d37a-f17d-4ef3-acf5-e68cdb4a85ac" />
+
+<img width="956" height="471" alt="az-infra-roboshop-aks-visual2" src="https://github.com/user-attachments/assets/fccc1669-aec8-4377-a7e0-f237a0473005" />
+
