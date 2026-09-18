@@ -44,3 +44,4 @@
 
 <img width="948" height="464" alt="az-infra-aks-resources-roshop-namespace-workloads-user-replica" src="https://github.com/user-attachments/assets/2fb049f4-2df8-41eb-b493-39d376195147" />
 
+<img width="953" height="464" alt="az-infra-aks-helm-preview" src="https://github.com/user-attachments/assets/49cfc1ff-46bc-45fe-a5e8-6c3964027a72" />
