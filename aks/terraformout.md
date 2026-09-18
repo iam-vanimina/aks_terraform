@@ -1,4 +1,5 @@
-[0m[1mInitializing the backend...[0m
+```
+[0m[1mInitializing the backend...[0m
 [0m[1mInitializing modules...[0m
 [0m[1mInitializing provider plugins...[0m
 - Reusing previous version of hashicorp/azurerm from the dependency lock file
@@ -402,3 +403,4 @@ Changes to Outputs:
 
 Note: You didn't use the -out option to save this plan, so Terraform can't
 guarantee to take exactly these actions if you run "terraform apply" now.
+```
