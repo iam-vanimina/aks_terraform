@@ -663,13 +663,4 @@ Changes to Outputs:
 [0m[1mmodule.resource_group.azurerm_resource_group.this: Still destroying... [id=/subscriptions/ee6ecc1b-df3d-42ff-b352-9685a8d6609c/resourceGroups/roboshop-rg, 30s elapsed][0m[0m
 [0m[1mmodule.resource_group.azurerm_resource_group.this: Still destroying... [id=/subscriptions/ee6ecc1b-df3d-42ff-b352-9685a8d6609c/resourceGroups/roboshop-rg, 40s elapsed][0m[0m
 [0m[1mmodule.resource_group.azurerm_resource_group.this: Still destroying... [id=/subscriptions/ee6ecc1b-df3d-42ff-b352-9685a8d6609c/resourceGroups/roboshop-rg, 50s elapsed][0m[0m
-[0m[1mmodule.resource_group.azurerm_resource_group.this: Still destroying... [id=/subscriptions/ee6ecc1b-df3d-42ff-b352-9685a8d6609c/resourceGroups/roboshop-rg, 1m0s elapsed][0m[0m
-[0m[1mmodule.resource_group.azurerm_resource_group.this: Still destroying... [id=/subscriptions/ee6ecc1b-df3d-42ff-b352-9685a8d6609c/resourceGroups/roboshop-rg, 1m10s elapsed][0m[0m
-[0m[1mmodule.resource_group.azurerm_resource_group.this: Still destroying... [id=/subscriptions/ee6ecc1b-df3d-42ff-b352-9685a8d6609c/resourceGroups/roboshop-rg, 1m20s elapsed][0m[0m
-[0m[1mmodule.resource_group.azurerm_resource_group.this: Still destroying... [id=/subscriptions/ee6ecc1b-df3d-42ff-b352-9685a8d6609c/resourceGroups/roboshop-rg, 1m30s elapsed][0m[0m
-[0m[1mmodule.resource_group.azurerm_resource_group.this: Still destroying... [id=/subscriptions/ee6ecc1b-df3d-42ff-b352-9685a8d6609c/resourceGroups/roboshop-rg, 1m40s elapsed][0m[0m
-[0m[1mmodule.resource_group.azurerm_resource_group.this: Still destroying... [id=/subscriptions/ee6ecc1b-df3d-42ff-b352-9685a8d6609c/resourceGroups/roboshop-rg, 1m50s elapsed][0m[0m
-[0m[1mmodule.resource_group.azurerm_resource_group.this: Destruction complete after 1m53s[0m
-[0m[1m[32m
-Destroy complete! Resources: 13 destroyed.
-[0m
+
