@@ -3,6 +3,12 @@
 <img width="1536" height="1024" alt="aks_terra" src="https://github.com/user-attachments/assets/652d82d8-566b-4e9a-9071-f6bb1e1a0661" />
 
 
+<img width="1899" height="943" alt="image" src="https://github.com/user-attachments/assets/d4056b94-b9b4-4f93-bb35-71767b49f0ec" />
+
+<img width="957" height="408" alt="Screenshot 2026-09-18 110413" src="https://github.com/user-attachments/assets/5cb1c5d7-03da-438d-8645-b208d07b722e" />
+
+
+
 # Terraform Azure AKS Cluster
 
 This project provisions an **Azure Kubernetes Service (AKS)** cluster on Microsoft Azure using **Terraform**.
